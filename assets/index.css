@@ -1,0 +1,54 @@
+/* Global Styles */
+
+*{
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: Catamaran, Helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+/* Navigation bar styles ============= */
+
+.navbar{
+  background: linear-gradient(to right, #FCC8B2, #EFA48B);
+}
+
+#customNav .navbar-brand {
+  color: #0c0c0b;
+  font-family: 'pacifico';
+}
+
+#customNav .navbar-brand:hover{
+  color: white;
+  transition: 0.7s ease;
+}
+
+#customNav .navbar-nav > li > a {
+  color: #0c0c0b;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+ }
+
+#customNav .navbar-nav > li > a:hover {
+  color: white;
+  transition: 0.7s ease;
+
+}
+
+#navbarNav .navbar-nav{
+
+  float: right;
+  text-align: right;
+
+}
+
+#customNav .navbar-toggler:hover{
+  color: white;
+  transition: 0.7s ease;
+}
