@@ -68,18 +68,19 @@ h1,h2,h3,h4,h5,h6{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  margin: 0;
  }
 
 .customtext h2{
   font-family: 'pacifico';
   font-size: 30px;
-  color: #fff;
+  color: #fdfdf1;
 }
 .customtext h1, h3{
-  font-size: 25px;
+  font-size: 35px;
   font-weight: 700;
-  color: #fff;
-  }
+  color: #fdfdf1;
+}
 
 .customtext button{
   font-family: 'Catamaran';
@@ -98,6 +99,43 @@ h1,h2,h3,h4,h5,h6{
 .customtext button:hover{
   border: 2px solid #050504;
   background-color: #EFA48B;
+  box-shadow: 2px 2px 2px 1px rgba(243, 237, 237, 0.4);
+
 } 
+
+/* about me/skills section styles ============= */
+
+#about{
+ padding-top: 30px;
+ background-color: #df8b67;
+}
+
+.heading {
+  font-size: 30px;
+  font-weight: 700;
+  color: #070707;
+  text-align: center;
+}
+
+h5{
+  text-align: center;
+  font-weight: bold;
+}
+
+.container p{
+  font-size: medium;
+  font-weight: 600;
+}
+
+.progress{
+  margin-bottom: 10px;
+}
+.progress .progress-bar{
+  font-size:15px;
+  color:#0c0c0b;
+  font-weight: 600;
+  font-family: 'Catamaran';
+  padding: 10px;
+}
 
 
