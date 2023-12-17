@@ -148,7 +148,6 @@ h5{
   background-position: center;
   background-size: cover;
 }
-
 .github{
   display: flex;
   text-align: center;
@@ -184,3 +183,5 @@ h5{
 .card-body a .fa-brands:hover{
   color: #ffffff;
 }
+
+
