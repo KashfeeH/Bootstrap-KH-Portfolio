@@ -61,7 +61,7 @@ h1,h2,h3,h4,h5,h6{
 
 /* Hero section styles ============= */
 
- .jumbotron{
+.jumbotron{
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(../assets/images/kashfee.jpg);
   width: 100%;
   height: 100vh;
@@ -69,7 +69,7 @@ h1,h2,h3,h4,h5,h6{
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
- }
+}
 
 .customtext h2{
   font-family: 'pacifico';
@@ -148,6 +148,7 @@ h5{
   background-position: center;
   background-size: cover;
 }
+
   .github .fa-brands{
     height: 20px;
     color: #070707;
@@ -155,3 +156,37 @@ h5{
   .github a> i:hover {
     color: #8c271e;
   }
+=======
+
+.github a> i:hover {
+  color: #070707;
+}
+/* footer section styles ============= */
+#contact{
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background: linear-gradient(to right, rgb(252, 200, 178), rgb(221, 123, 90));
+}
+
+.cardcustom{
+  background: transparent;
+  box-shadow: 2px 2px 2px 1px rgba(112, 106, 105, 0.7);
+}
+
+.contact-card img{
+  width: 50px;
+  background: transparent;
+  border-radius: 25px;
+}
+
+.card-body a .fa-brands {
+  font-size: 17px;
+  color: #070707;
+}
+
+.card-body a .fa-brands:hover{
+  color: #ffffff;
+}
+
+
+
