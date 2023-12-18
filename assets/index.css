@@ -148,17 +148,10 @@ h5{
   background-position: center;
   background-size: cover;
 }
-
-  .github{
-    display: flex;
-    text-align: center;
-    justify-content: center;
-  }
-
-  .github a> i{
-    height: 35px;
-  }
-
-  .github a> i:hover {
+  .github .fa-brands{
+    height: 20px;
     color: #070707;
+  }
+  .github a> i:hover {
+    color: #8c271e;
   }
