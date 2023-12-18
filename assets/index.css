@@ -148,11 +148,6 @@ h5{
   background-position: center;
   background-size: cover;
 }
-.github{
-  display: flex;
-  text-align: center;
-  justify-content: center;
-}
 
 .github a> i:hover {
   color: #070707;
