@@ -7,6 +7,14 @@ This week's challenge was to use Bootstrap- a free open source front-end develop
 I also learnt that in Git/Github once a branch is created, only the portion of code planned for that branch should be worked on. No other changes must be made anywhere else in the code. Otherwise, merging conflicts occur. It was a hard lesson learnt and I realized if, for example, two people are trying to alter the same piece of code from different branches, it defeats the purpose of even having the Github facilty. It was created with the target in mind that several people can work on the same tree but diffrent branches and not have clashing codes. Removing merging conflicts is easy enough on this small task however, in larger projects such problems must be avoided. I move on from this project with a deeper understanding of Bootstrap and Git/Github.
 
 ##  Usage
+For the previous portfolio, please navigate to https://kashfeeh.github.io/Portfolio/ 
+
+![top section of the webpage](./assets/images/previousportfolio1.JPG)
+![contact/footer section of the webpage](./assets/images/previousportfolio2.JPG)
+
+
+For the Portfolio using Bootstrap, please navigate to https://kashfeeh.github.io/Bootstrap-KH-Portfolio/ 
+
 ![top section of the webpage](./assets/images/screenshot1.jpg)
 ![middle section of the webpage](./assets/images/screenshot2.jpg)
 ![contact/footer section of the webpage](./assets/images/screenshot3.JPG)
