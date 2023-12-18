@@ -149,6 +149,15 @@ h5{
   background-size: cover;
 }
 
+  .github .fa-brands{
+    height: 20px;
+    color: #070707;
+  }
+  .github a> i:hover {
+    color: #8c271e;
+  }
+=======
+
 .github a> i:hover {
   color: #070707;
 }
@@ -178,5 +187,6 @@ h5{
 .card-body a .fa-brands:hover{
   color: #ffffff;
 }
+
 
 
